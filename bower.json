@@ -1,0 +1,25 @@
+{
+  "name": "TravellerSystemGenerator",
+  "version": "0.0.0",
+  "authors": [
+    "Lukas Höppner <lukas.hoeppner@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.2",
+    "requirejs": "~2.1.9",
+    "font-awesome": "~4.0.3",
+    "chartjs": "*",
+    "underscore": "~1.5.2",
+    "js-priority-queue": "~0.0.4"
+  }
+}
